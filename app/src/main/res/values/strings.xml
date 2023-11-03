@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Weekly Tasks</string>
+    <string name="weekly_task">weekly task</string>
 </resources>
